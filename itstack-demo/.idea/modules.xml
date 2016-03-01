@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo.iml" filepath="$PROJECT_DIR$/itstack-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo-common/itstack-demo-common.iml" filepath="$PROJECT_DIR$/itstack-demo-common/itstack-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo-dao/itstack-demo-dao.iml" filepath="$PROJECT_DIR$/itstack-demo-dao/itstack-demo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo-domain/itstack-demo-domain.iml" filepath="$PROJECT_DIR$/itstack-demo-domain/itstack-demo-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo-service/itstack-demo-service.iml" filepath="$PROJECT_DIR$/itstack-demo-service/itstack-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo-web/itstack-demo-web.iml" filepath="$PROJECT_DIR$/itstack-demo-web/itstack-demo-web.iml" />
+    </modules>
+  </component>
+</project>
+
