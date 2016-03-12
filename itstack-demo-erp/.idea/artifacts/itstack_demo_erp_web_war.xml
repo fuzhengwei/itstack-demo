@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itstack-demo-erp-web:war">
+    <output-path>$PROJECT_DIR$/itstack-demo-erp-web/target</output-path>
+    <root id="archive" name="itstack-demo-erp-web.war">
+      <element id="artifact" artifact-name="itstack-demo-erp-web:war exploded" />
+    </root>
+  </artifact>
+</component>
